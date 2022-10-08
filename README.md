@@ -23,7 +23,7 @@ Robust machine learning typically refers to the robustness of machine learning a
 ## Papers
 
 | Paper | Source |
-| --- | --- |
+| ------------------------------------- | --- |
 | [robustness in machine learning - jerry li](https://jerryzli.github.io/robust-ml-fall19.html) | Arxiv |
 | [robust ml](https://www.robust-ml.org/) |
 | [robust machine learning models and their applications](https://dspace.mit.edu/handle/1721.1/130760) |
