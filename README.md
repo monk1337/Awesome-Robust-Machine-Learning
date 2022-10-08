@@ -1701,8 +1701,6 @@ Robust machine learning typically refers to the robustness of machine learning a
 
 - **shift distribution – shiftdistribution.com**
   - [[Paper]](http://www.shiftdistribution.com/)
-- **why equity matters in physician shift distribution - petal blog**
-  - [[Paper]](https://blog.petal-health.com/why-equity-matters-physician-shift-distribution)
 - **ehr foundation models improve robustness in the presence ...**
   - [[Paper]](https://www.medrxiv.org/content/10.1101/2022.04.15.22273900v1.full)
 - **maintaining fairness across distribution shift: do we have ...**
