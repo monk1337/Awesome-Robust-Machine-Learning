@@ -22,6 +22,8 @@ Robust machine learning typically refers to the robustness of machine learning a
 
 ## Papers
 
+### Robust machine learning
+
 - **robust machine learning systems: reliability and security for ...**
   - [[Paper]](https://ieeexplore.ieee.org/document/8474192)
 - **robust machine comprehension models via adversarial ...**
@@ -362,3 +364,1498 @@ Robust machine learning typically refers to the robustness of machine learning a
   - [[Paper]](https://arxiv.org/pdf/2001.10655.pdf)
 - **robust machine learning for colorectal cancer risk prediction and stratification**
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/33693381)
+
+
+
+### Robust Machine Learning in Medical Domain
+
+
+- **robust machine learning variable importance analyses of ...**
+  - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/29527659/)
+- **secure and robust machine learning for healthcare ... - core**
+  - [[Paper]](https://core.ac.uk/download/pdf/328760438.pdf)
+- **rethink robustness of deep learning models for medical ...**
+  - [[Paper]](https://aimi.stanford.edu/events/research-meeting/aimi-research-meeting-rethink-robustness-deep-learning-models-medical-image)
+- **identification of robust deep neural network models of ... - nature**
+  - [[Paper]](https://www.nature.com/articles/s41746-022-00651-4)
+- **robustness of ai-based prognostic and systems health ...**
+  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1367578821000195)
+- **scalable few-shot learning of robust biomedical name ...**
+  - [[Paper]](https://aclanthology.org/2021.bionlp-1.3.pdf)
+- **applied medical code mapping with character-based deep ...**
+  - [[Paper]](https://aclanthology.org/2021.naloma-1.2.pdf)
+- **enhancing model robustness and fairness with causality**
+  - [[Paper]](https://aclanthology.org/2021.cinlp-1.3.pdf)
+- **identifying patients with pain in emergency departments ...**
+  - [[Paper]](https://aclanthology.org/U19-1015.pdf)
+- **robust machine translation evaluation with entailment ...**
+  - [[Paper]](https://aclanthology.org/P09-1034.pdf)
+- **does robustness improve fairness? approaching fairness ...**
+  - [[Paper]](https://aclanthology.org/2021.findings-acl.294.pdf)
+- **on the lack of robust interpretability of neural text classifiers**
+  - [[Paper]](https://aclanthology.org/2021.findings-acl.327.pdf)
+- **supervised machine learning for extractive query based ...**
+  - [[Paper]](https://aclanthology.org/W18-5604.pdf)
+- **robust benchmarking for machine learning of clinical entity ...**
+  - [[Paper]](http://proceedings.mlr.press/v126/agrawal20a/agrawal20a.pdf)
+- **feature robustness in non-stationary health records:**
+  - [[Paper]](http://proceedings.mlr.press/v106/nestor19a/nestor19a.pdf)
+- **just train twice: improving group robustness without ...**
+  - [[Paper]](http://proceedings.mlr.press/v139/liu21f/liu21f.pdf)
+- **addressing the false negative problem of deep learning ...**
+  - [[Paper]](https://proceedings.mlr.press/v121/cheng20a.html)
+- **what clinicians want: contextualizing explainable machine ...**
+  - [[Paper]](http://proceedings.mlr.press/v106/tonekaboni19a/tonekaboni19a.pdf)
+- **smoothed geometry for robust attribution - nips papers**
+  - [[Paper]](https://papers.nips.cc/paper/2020/file/9d94c8981a48d12adfeecfe1ae6e0ec1-Paper.pdf)
+- **distilling robust and non-robust features in adversarial ...**
+  - [[Paper]](https://papers.nips.cc/paper/2021/file/8e5e15c4e6d09c8333a17843461041a9-Paper.pdf)
+- **exploring architectural ingredients of adversarially robust ...**
+  - [[Paper]](https://papers.nips.cc/paper/2021/file/2bd7f907b7f5b6bbd91822c0c7b835f6-Paper.pdf)
+- **adversarial training helps transfer learning via better ...**
+  - [[Paper]](https://papers.nips.cc/paper/2021/file/d3aeec875c479e55d1cdeea161842ec6-Paper.pdf)
+- **on single source robustness in deep fusion models**
+  - [[Paper]](https://papers.nips.cc/paper/8728-on-single-source-robustness-in-deep-fusion-models.pdf)
+- **coresets for robust training of neural networks against ...**
+  - [[Paper]](https://papers.nips.cc/paper/2020/file/8493eeaccb772c0878f99d60a0bd2bb3-Paper.pdf)
+- **robust classification under sample selection bias**
+  - [[Paper]](http://papers.nips.cc/paper/5458-robust-classification-under-sample-selection-bias.pdf)
+- **metric learning for adversarial robustness**
+  - [[Paper]](https://papers.nips.cc/paper/8339-metric-learning-for-adversarial-robustness.pdf)
+- **robust high-dimensional classification from few positive ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/271)
+- **robust high-dimensional classification from few ... - ijcai**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0271.pdf)
+- **multimodal attentional neural networks for diagnosis prediction**
+  - [[Paper]](https://www.ijcai.org/proceedings/2019/0823.pdf)
+- **towards adversarially robust deep image denoising - ijcai**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0211.pdf)
+- **hybrid learning system for large-scale medical image analysis**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0824.pdf)
+- **ai-powered posture training: application of machine learning ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2019/0805.pdf)
+- **certified robustness via randomized smoothing over ... - ijcai**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0467.pdf)
+- **robust interpretable text classification against spurious ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0616.pdf)
+- **robust and sparse fuzzy k-means clustering - ijcai**
+  - [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/317.pdf)
+- **carben: composite adversarial robustness benchmark**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0851.pdf)
+- **robust medical image segmentation by adapting neural ...**
+  - [[Paper]](https://openreview.net/pdf?id=tv_pkmFzdC)
+- **measuring robustness in deep learning based compressive ...**
+  - [[Paper]](https://openreview.net/pdf?id=HqUeGFCQzX5)
+- **conditional synthetic data generation for robust machine ...**
+  - [[Paper]](https://openreview.net/pdf?id=o4JWdxYTjL8)
+- **robust training of recurrent neural networks to handle missing ...**
+  - [[Paper]](https://openreview.net/forum?id=S1jqMb2oM)
+- **reliable and trustworthy machine learning for ... - nips papers**
+  - [[Paper]](https://openreview.net/pdf?id=hNMOSUxE8o6)
+- **robust neural networks are more interpretable for genomics**
+  - [[Paper]](https://openreview.net/pdf/6b9befb80f2336b2c81716f766c4d4572c2fc827.pdf)
+- **robust image segmentation quality assessment - openreview**
+  - [[Paper]](https://openreview.net/pdf?id=nyhZXiaotm)
+- **out of distribution detection and adversarial attacks on deep ...**
+  - [[Paper]](https://openreview.net/forum?id=1iy7rdPCt_)
+- **[2103.08291] robust machine learning in critical care - arxiv**
+  - [[Paper]](https://arxiv.org/abs/2103.08291)
+- **secure and robust machine learning for healthcare ... - arxiv**
+  - [[Paper]](https://arxiv.org/pdf/2001.08103)
+- **robust machine learning in critical care - arxiv**
+  - [[Paper]](https://arxiv.org/pdf/2103.08291)
+- **online reflective learning for robust medical image ... - arxiv**
+  - [[Paper]](http://arxiv.org/abs/2207.00476)
+- **style curriculum learning for robust medical image ... - arxiv**
+  - [[Paper]](https://arxiv.org/abs/2108.00402)
+- **deep learning models are not robust against noise in clinical ...**
+  - [[Paper]](https://arxiv.org/abs/2108.12242)
+- **evaluating the robustness of self-supervised learning in ...**
+  - [[Paper]](https://arxiv.org/abs/2105.06986)
+- **towards to robust and generalized medical image ... - arxiv**
+  - [[Paper]](https://arxiv.org/abs/2108.03823)
+- **uncertainty estimations methods for a deep learning model to aid in clinical decision-making -- a clinician's perspective**
+  - [[Paper]](https://arxiv.org/abs/2210.00589)
+- **feddar: federated domain-aware representation learning**
+  - [[Paper]](https://arxiv.org/abs/2209.04007)
+- **3d ux-net: a large kernel volumetric convnet modernizing hierarchical transformer for medical image segmentation**
+  - [[Paper]](https://arxiv.org/abs/2209.15076)
+- **stacking ensemble learning in deep domain adaptation for ophthalmic image classification**
+  - [[Paper]](https://arxiv.org/abs/2209.13420)
+- **identifying differential equations to predict blood glucose using sparse identification of nonlinear systems**
+  - [[Paper]](https://arxiv.org/abs/2209.13852)
+- **robust and efficient imbalanced positive-unlabeled learning with self-supervision**
+  - [[Paper]](https://arxiv.org/abs/2209.02459)
+- **generalizability of adversarial robustness under distribution shifts**
+  - [[Paper]](https://arxiv.org/abs/2209.15042)
+- **fairness and robustness in anti-causal prediction**
+  - [[Paper]](https://arxiv.org/abs/2209.09423)
+- **feature selection integrated deep learning for ultrahigh dimensional and highly correlated feature space**
+  - [[Paper]](https://arxiv.org/abs/2209.07011)
+- **de-identification of french unstructured clinical notes for machine learning tasks**
+  - [[Paper]](https://arxiv.org/abs/2209.09631)
+- **boxshrink: from bounding boxes to segmentation masks**
+  - [[Paper]](https://arxiv.org/abs/2208.03142)
+- **rrwavenet: a compact end-to-end multi-scale residual cnn for robust ppg respiratory rate estimation**
+  - [[Paper]](https://arxiv.org/abs/2208.08672)
+- **geoecg: data augmentation via wasserstein geodesic perturbation for robust electrocardiogram prediction**
+  - [[Paper]](https://arxiv.org/abs/2208.01220)
+- **adaptive temperature scaling for robust calibration of deep neural networks**
+  - [[Paper]](https://arxiv.org/abs/2208.00461)
+- **rethinking degradation: radiograph super-resolution via aid-srgan**
+  - [[Paper]](https://arxiv.org/abs/2208.03008)
+- **an intertwined neural network model for eeg classification in brain-computer interfaces**
+  - [[Paper]](https://arxiv.org/abs/2208.08860)
+- **machine learning-based eeg applications and markets**
+  - [[Paper]](https://arxiv.org/abs/2208.05144)
+- **bayesian pseudo labels: expectation maximization for robust and efficient semi-supervised segmentation**
+  - [[Paper]](https://arxiv.org/abs/2208.04435)
+- **deformation equivariant cross-modality image synthesis with paired non-aligned training data**
+  - [[Paper]](https://arxiv.org/abs/2208.12491)
+- **federated learning for medical applications: a taxonomy, current trends, challenges, and future research directions**
+  - [[Paper]](https://arxiv.org/abs/2208.03392)
+- **fast-aid brain: fast and accurate segmentation tool using artificial intelligence developed for brain**
+  - [[Paper]](https://arxiv.org/abs/2208.14360)
+- **slice-level detection of intracranial hemorrhage on ct using deep descriptors of adjacent slices**
+  - [[Paper]](https://arxiv.org/abs/2208.03403)
+- **vector-based data improves left-right eye-tracking classifier performance after a covariate distributional shift**
+  - [[Paper]](https://arxiv.org/abs/2208.00465)
+- **learning from imperfect training data using a robust loss function: application to brain image segmentation**
+  - [[Paper]](https://arxiv.org/abs/2208.04941)
+- **predicting microsatellite instability and key biomarkers in colorectal cancer from h&e-stained images: achieving sota predictive performance with fewer data using swin transformer**
+  - [[Paper]](https://arxiv.org/abs/2208.10495)
+- **bpfish: blockchain and privacy-preserving fl inspired smart healthcare**
+  - [[Paper]](https://arxiv.org/abs/2207.11654)
+- **decorrelative network architecture for robust electrocardiogram classification**
+  - [[Paper]](https://arxiv.org/abs/2207.09031)
+- **liver segmentation using turbolift learning for ct and cone-beam c-arm perfusion imaging**
+  - [[Paper]](https://arxiv.org/abs/2207.10167)
+- **online reflective learning for robust medical image segmentation**
+  - [[Paper]](https://arxiv.org/abs/2207.00476)
+- **representation learning with information theory for covid-19 detection**
+  - [[Paper]](https://arxiv.org/abs/2207.01437)
+- **suppressing poisoning attacks on federated learning for medical imaging**
+  - [[Paper]](https://arxiv.org/abs/2207.10804)
+- **advances in prediction of readmission rates using long term short term memory networks on healthcare insurance data**
+  - [[Paper]](https://arxiv.org/abs/2207.00066)
+- **vector quantisation for robust segmentation**
+  - [[Paper]](https://arxiv.org/abs/2207.01919)
+- **pose-based tremor classification for parkinson's disease diagnosis from video**
+  - [[Paper]](https://arxiv.org/abs/2207.06828)
+- **machine learning to predict the antimicrobial activity of cold atmospheric plasma-activated liquids**
+  - [[Paper]](https://arxiv.org/abs/2207.12478)
+- **towards accurate and robust classification in continuously transitioning industrial sprays with mixup**
+  - [[Paper]](https://arxiv.org/abs/2207.09609)
+- **identifying the context shift between test benchmarks and production data**
+  - [[Paper]](https://arxiv.org/abs/2207.01059)
+- **pro-tip: phantom for robust automatic ultrasound calibration by tip detection**
+  - [[Paper]](https://arxiv.org/abs/2206.05962)
+- **a review of causality for learning algorithms in medical image analysis**
+  - [[Paper]](https://arxiv.org/abs/2206.05498)
+- **decentralized distributed learning with privacy-preserving data synthesis**
+  - [[Paper]](https://arxiv.org/abs/2206.10048)
+- **self-supervision on images and text reduces reliance on visual shortcut features**
+  - [[Paper]](https://arxiv.org/abs/2206.07155)
+- **amos: a large-scale abdominal multi-organ benchmark for versatile medical image segmentation**
+  - [[Paper]](https://arxiv.org/abs/2206.08023)
+- **from labels to priors in capsule endoscopy: a prior guided approach for improving generalization with few labels**
+  - [[Paper]](https://arxiv.org/abs/2206.05288)
+- **breast cancer classification using deep learned features boosted with handcrafted features**
+  - [[Paper]](https://arxiv.org/abs/2206.12815)
+- **cass: cross architectural self-supervision for medical image analysis**
+  - [[Paper]](https://arxiv.org/abs/2206.04170)
+- **adaptive adversarial training to improve adversarial robustness of dnns for medical image segmentation and detection**
+  - [[Paper]](https://arxiv.org/abs/2206.01736)
+- **learning underrepresented classes from decentralized partially labeled medical images**
+  - [[Paper]](https://arxiv.org/abs/2206.15353)
+- **independent evaluation of state-of-the-art deep networks for mammography**
+  - [[Paper]](https://arxiv.org/abs/2206.12407)
+- **robust monitoring for medical cyber-physical systems**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3446913.3460318)
+- **detection of nasopharyngeal carcinoma using routine medical tests via machine learning**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3524086.3524102)
+- **a machine learning approach for medical device classification**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3494193.3494232)
+- **machine learning for the developing world**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210548)
+- **prediction of adverse drug reaction using machine learning and deep learning based on an imbalanced electronic medical records dataset**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3472813.3472817)
+- **explainability methods for machine learning systems for multimodal medical datasets: research proposal**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3524273.3533925)
+- **analyzing the robustness of open-world machine learning**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3338501.3357372)
+- **validation methods to promote real-world applicability of machine learning in medicine**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3441369.3441372)
+- **machine learning approaches for extracting genetic medical data information**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3018896.3066906)
+- **deep learning for medical anomaly detection – a survey**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3464423)
+- **evaluation of applied machine learning for health misinformation detection via survey of medical professionals on controversial topics in pediatrics**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3472813.3472814)
+- **robust i/o-compute concurrency for machine learning pipelines in constrained cyber-physical devices**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3461648.3463842)
+- **the early detection of subclinical ketosis in dairy cows using machine learning methods**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3055635.3056625)
+- **text classification of diseases treated by traditional chinese medicine prescription based on machine learning**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3429889.3429895)
+- **deep learning in medical imaging: fmri big data analysis via convolutional neural networks**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3219104.3229250)
+- **multi-layer representation learning for medical concepts**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2939672.2939823)
+- **a robust framework for accelerated outcome-driven risk factor identification from ehr**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330718)
+- **improving early prognosis of dementia using machine learning methods**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3502433)
+- **on the need of machine learning as a service for the internet of things**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3109761.3109783)
+- **federated multi-view learning for private medical data integration and analysis**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3501816)
+- **federated learning in a medical context: a systematic literature review**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3412357)
+- **automatic processing of electronic medical records using deep learning**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3240925.3240961)
+- **a multi-agent feature selection and hybrid classification model for parkinson's disease diagnosis**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3433180)
+- **object detection and classification using machine learning techniques: a comparison of haar cascades and neural networks**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3484824.3484895)
+- **automatic differentiation in machine learning: a survey**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.5555/3122009.3242010)
+- **an adversarial approach for the robust classification of pneumonia from chest radiographs**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3368555.3384458)
+- **analysis of machine learning models predicting quality of life for cancer patients**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3444757.3485103)
+- **diagnosis of methylmalonic acidemia using machine learning methods**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340997.3341000)
+- **assuring the machine learning lifecycle: desiderata, methods, and challenges**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3453444)
+- **bringing machine learning closer to non-experts: proposal of a user-friendly machine learning tool in the healthcare domain**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3486011.3486469)
+- **robust machine learning in critical care — software engineering and medical perspectives**
+  - [[Paper]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9474414)
+- **open source robust machine learning software for medical patient data analysis and cloud storage**
+  - [[Paper]](https://doi.org/10.1007/978-3-030-64610-3_104)
+- **robust machine learning variable importance analyses of medical conditions for health care spending**
+  - [[Paper]](https://doi.org/10.1111/1475-6773.12848)
+- **robust machine learning against adversarial samples at test time**
+  - [[Paper]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149002)
+- **lung cancer prediction using robust machine learning and image enhancement methods on extracted gray-level co-occurrence matrix features**
+  - [[Paper]](https://doi.org/10.3390/app12136517)
+- **a robust machine learning predictive model for maternal health risk**
+  - [[Paper]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9885515)
+- **robust medical image registration and motion modeling based on machine learning. (le recalage robuste d'images médicales et la modélisation du mouvement basée sur l'apprentissage profond)**
+  - [[Paper]](https://tel.archives-ouvertes.fr/tel-02954033)
+- **a robust and stable gene selection algorithm based on graph theory and machine learning**
+  - [[Paper]](https://doi.org/10.1186/s40246-021-00366-9)
+
+
+
+### Distribution Shift
+
+
+
+- **difference between distribution shift and data shift, concept ...**
+  - [[Paper]](https://stats.stackexchange.com/questions/548405/difference-between-distribution-shift-and-data-shift-concept-drift-and-model-dr)
+- **understanding dataset shift - towards data science**
+  - [[Paper]](https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766)
+- **distribution shift framework - deepmind**
+  - [[Paper]](https://www.deepmind.com/open-source/distribution-shift-framework)
+- **4.7. environment and distribution shift**
+  - [[Paper]](https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html)
+- **learning to predict and make decisions under distribution shift**
+  - [[Paper]](https://www.ml.cmu.edu/research/phd-dissertation-pdfs/yw4_phd_ml_2021.pdf)
+- **dataset shift in machine learning - mit press**
+  - [[Paper]](https://mitpress.mit.edu/9780262545877/dataset-shift-in-machine-learning/)
+- **mechanical mnist – distribution shift - openbu**
+  - [[Paper]](https://open.bu.edu/handle/2144/44485)
+- **principles of distribution shift (pods) - icml 2022**
+  - [[Paper]](https://icml.cc/Conferences/2022/ScheduleMultitrack?event=13465)
+- **microsoft/distribution-shift-latent-representations - github**
+  - [[Paper]](https://github.com/microsoft/distribution-shift-latent-representations)
+- **neurips distshift workshop 2021 - google sites**
+  - [[Paper]](https://sites.google.com/view/distshift2021)
+- **types of out-of-distribution texts and how to detect them**
+  - [[Paper]](https://aclanthology.org/2021.emnlp-main.835.pdf)
+- **shifted label distribution matters in distantly supervised ...**
+  - [[Paper]](https://aclanthology.org/D19-1397.pdf)
+- **to annotate or not? predicting performance drop under ...**
+  - [[Paper]](https://aclanthology.org/D19-1222.pdf)
+- **contrastive out-of-distribution detection for pretrained ...**
+  - [[Paper]](https://aclanthology.org/2021.emnlp-main.84.pdf)
+- **on continual model refinement in out-of-distribution data ...**
+  - [[Paper]](https://aclanthology.org/2022.acl-long.223)
+- **distributionally robust recurrent decoders with random ...**
+  - [[Paper]](https://aclanthology.org/2022.repl4nlp-1.1)
+- **estimating the impact of domain shift on parser error**
+  - [[Paper]](https://aclanthology.org/2022.findings-acl.68/)
+- **social media text classification under negative covariate shift**
+  - [[Paper]](https://aclanthology.org/D15-1282.pdf)
+- **distributionally robust finetuning bert for covariate drift in ...**
+  - [[Paper]](https://aclanthology.org/2022.acl-long.139.pdf)
+- **adversarial adaptation of synthetic or stale data**
+  - [[Paper]](https://aclanthology.org/P17-1119)
+- **semi-supervised domain adaptation for dependency parsing ...**
+  - [[Paper]](https://aclanthology.org/2022.acl-long.74)
+- **joint and conditional estimation of tagging and parsing models**
+  - [[Paper]](https://aclanthology.org/P01-1042.pdf)
+- **measure and improve robustness in nlp models: a survey**
+  - [[Paper]](https://aclanthology.org/2022.naacl-main.339.pdf)
+- **unlearn dataset bias in natural language inference by fitting ...**
+  - [[Paper]](https://aclanthology.org/D19-6115)
+- **2022.findings-naacl.13.pdf - acl anthology**
+  - [[Paper]](https://aclanthology.org/2022.findings-naacl.13.pdf)
+- **an investigation of the (in)effectiveness of counterfactually ...**
+  - [[Paper]](https://aclanthology.org/2022.acl-long.256)
+- **methods for estimating and improving robustness of ...**
+  - [[Paper]](https://aclanthology.org/2022.naacl-srw.6.pdf)
+- **evaluating lottery tickets under distributional shifts**
+  - [[Paper]](https://aclanthology.org/D19-6117.pdf)
+- **test-time training can close the natural distribution shift ...**
+  - [[Paper]](https://proceedings.mlr.press/v162/darestani22a.html)
+- **examining and combating spurious features under ...**
+  - [[Paper]](https://proceedings.mlr.press/v139/zhou21g.html)
+- **on distribution shift in learning-based bug detectors**
+  - [[Paper]](https://proceedings.mlr.press/v162/he22a/he22a.pdf)
+- **estimating generalization under distribution shifts via domain ...**
+  - [[Paper]](https://proceedings.mlr.press/v119/chuang20a.html)
+- **a label transformation framework for correcting label shift**
+  - [[Paper]](https://proceedings.mlr.press/v119/guo20d.html)
+- **bayesian adaptation for covariate shift**
+  - [[Paper]](https://papers.nips.cc/paper/2021/hash/07ac7cd13fd0eb1654ccdbd222b81437-Abstract.html)
+- **rethinking importance weighting for deep learning under ...**
+  - [[Paper]](https://papers.nips.cc/paper/2020/hash/8b9e7ab295e87570551db122a04c6f7c-Abstract.html)
+- **characterizing generalization under out-of-distribution shifts ...**
+  - [[Paper]](https://papers.nips.cc/paper/2021/file/d1f255a373a3cef72e03aa9d980c7eca-Paper.pdf)
+- **a unified view of label shift estimation - nips papers**
+  - [[Paper]](https://papers.nips.cc/paper/2020/file/219e052492f4008818b8adb6366c7ed6-Paper.pdf)
+- **provably efficient q-learning with function approximation via ...**
+  - [[Paper]](http://papers.nips.cc/paper/9018-provably-efficient-q-learning-with-function-approximation-via-distribution-shift-error-checking-oracle.pdf)
+- **robust federated learning: the case of affine distribution ...**
+  - [[Paper]](https://papers.nips.cc/paper/2020/file/f5e536083a438cec5b64a4954abc17f1-Paper.pdf)
+- **domain adaptation by using causal inference to predict ...**
+  - [[Paper]](https://papers.nips.cc/paper/8282-domain-adaptation-by-using-causal-inference-to-predict-invariant-conditional-distributions.pdf)
+- **domain adaptation with conditional distribution matching and ...**
+  - [[Paper]](https://papers.nips.cc/paper/2020/file/dfbfa7ddcfffeb581f50edcf9a0204bb-Paper.pdf)
+- **correcting covariate shift with the frank-wolfe algorithm**
+  - [[Paper]](https://www.ijcai.org/Proceedings/15/Papers/147.pdf)
+- **few-shot adaptation of pre-trained networks for domain shift**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0232.pdf)
+- **distance metric learning under covariate shift - ijcai**
+  - [[Paper]](https://www.ijcai.org/Proceedings/11/Papers/205.pdf)
+- **domain generalization through the lens of angular invariance**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0139.pdf)
+- **approximate exploitability: learning a best response - ijcai**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0484.pdf)
+- **searching for optimal subword tokenization in cross ... - ijcai**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/595)
+- **robust domain adaptation: representations, weights and ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2021/0644.pdf)
+- **domain generalization under conditional and label shifts via ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2021/122)
+- **identifying instance features for capability-oriented evaluation**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0392.pdf)
+- **adversarial bi-regressor network for domain adaptive ... - ijcai**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0501.pdf)
+- **task-aware lipschitz data augmentation for visual ... - ijcai**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0514.pdf)
+- **topological uncertainty: monitoring trained neural networks ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2021/0367.pdf)
+- **test-time fourier style calibration for domain generalization**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0240.pdf)
+- **self-managing associative memory for dynamic acquisition of ...**
+  - [[Paper]](https://www.ijcai.org/Proceedings/09/Papers/169.pdf)
+- **learning personalization for cross-silo federated learning**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/301)
+- **a fine-grained analysis on distribution shift - openreview**
+  - [[Paper]](https://openreview.net/forum?id=Dl4LetuLdyK)
+- **a benchmark of in-the-wild distribution shift over time**
+  - [[Paper]](https://openreview.net/forum?id=BUQD1tJ2UwK)
+- **feature shift detection: localizing which ... - nips papers**
+  - [[Paper]](https://openreview.net/pdf?id=k1YfNKf0FZn)
+- **online adaptation to label distribution shift - openreview**
+  - [[Paper]](https://openreview.net/forum?id=6h14cMLgb5q)
+- **if your data distribution shifts, use self-learning - openreview**
+  - [[Paper]](https://openreview.net/forum?id=1oEvY1a67c1)
+- **how robust are pre-trained models to distribution shift?**
+  - [[Paper]](https://openreview.net/forum?id=zKDcZBVVEWm)
+- **fair predictors under distribution shift - openreview**
+  - [[Paper]](https://openreview.net/forum?id=zgl6DdYHggo)
+- **an empirical study of methods for detecting dataset shift**
+  - [[Paper]](https://openreview.net/pdf/f9a2ae9ee8021aeb70a8f2deeab247a324b8200e.pdf)
+- **robust generalization despite distribution shift via minimum ...**
+  - [[Paper]](https://openreview.net/attachment?id=kiWRlrbVzSM&name=supplementary_material)
+- **tracking the risk of a deployed model - openreview**
+  - [[Paper]](https://openreview.net/pdf?id=Ro_zAjZppv)
+- **towards explaining image-based distribution shifts**
+  - [[Paper]](https://openreview.net/pdf?id=MpDDnE6_lGC)
+- **handling distribution shifts on graphs**
+  - [[Paper]](https://openreview.net/pdf?id=FQOC5u-1egI)
+- **unsupervised attribute alignment for characterizing ...**
+  - [[Paper]](https://openreview.net/forum?id=Bk1hklAuZyh)
+- **reversible instance normalization for ...**
+  - [[Paper]](https://openreview.net/pdf?id=cGDAkQo1C0p)
+- **a fine-grained analysis on distribution shift - arxiv**
+  - [[Paper]](https://arxiv.org/abs/2110.11328)
+- **an empirical study on distribution shift robustness from the ...**
+  - [[Paper]](https://arxiv.org/abs/2205.12753)
+- **maintaining fairness across distribution shift - arxiv**
+  - [[Paper]](https://arxiv.org/pdf/2202.01034)
+- **interpretable distribution shift detection using optimal transport**
+  - [[Paper]](https://arxiv.org/abs/2208.02896)
+- **codes: a distribution shift benchmark dataset for source ...**
+  - [[Paper]](https://arxiv.org/abs/2206.05480)
+- **how robust are pre-trained models to distribution shift? - arxiv**
+  - [[Paper]](https://arxiv.org/abs/2206.08871)
+- **calibrated ensembles can mitigate accuracy tradeoffs under ...**
+  - [[Paper]](http://arxiv.org/abs/2207.08977)
+- **discovering distribution shifts using latent space ... - arxiv**
+  - [[Paper]](https://arxiv.org/abs/2202.02339)
+- **models out of line: a fourier lens on distribution shift ... - arxiv**
+  - [[Paper]](https://arxiv.org/abs/2207.04075)
+- **combating distribution shift for accurate time series ... - arxiv**
+  - [[Paper]](https://arxiv.org/abs/2202.10808)
+- **time series prediction under distribution shift using ... - arxiv**
+  - [[Paper]](http://arxiv.org/abs/2207.11486)
+- **on distribution shift in learning-based bug detectors - arxiv**
+  - [[Paper]](https://arxiv.org/abs/2204.10049)
+- **fairness transferability subject to bounded distribution shift**
+  - [[Paper]](https://arxiv.org/abs/2206.00129)
+- **combating label distribution shift for active domain adaptation**
+  - [[Paper]](https://arxiv.org/abs/2208.06604)
+- **test: test-time self-training under distribution shift - arxiv**
+  - [[Paper]](https://arxiv.org/abs/2209.11459)
+- **[2202.06523] metashift: a dataset of datasets for evaluating ...**
+  - [[Paper]](https://arxiv.org/abs/2202.06523)
+- **estimating test performance for ai medical devices under ...**
+  - [[Paper]](https://arxiv.org/abs/2207.05796)
+- **agreement-on-the-line: predicting the performance of neural ...**
+  - [[Paper]](https://arxiv.org/abs/2206.13089)
+- **contrastive graph few-shot learning**
+  - [[Paper]](https://arxiv.org/abs/2210.00084)
+- **learning an invertible output mapping can mitigate simplicity bias in neural networks**
+  - [[Paper]](https://arxiv.org/abs/2210.01360)
+- **a fixed-point algorithm for the ac power flow problem**
+  - [[Paper]](https://arxiv.org/abs/2210.01310)
+- **percolation properties of the neutron population in nuclear reactors**
+  - [[Paper]](https://arxiv.org/abs/2210.02413)
+- **a review of uncertainty calibration in pretrained object detectors**
+  - [[Paper]](https://arxiv.org/abs/2210.02935)
+- **analysis of irs-assisted downlink wireless networks over generalized fading**
+  - [[Paper]](https://arxiv.org/abs/2210.02717)
+- **exploring effective knowledge transfer for few-shot object detection**
+  - [[Paper]](https://arxiv.org/abs/2210.02021)
+- **gapx: generalized autoregressive paraphrase-identification x**
+  - [[Paper]](https://arxiv.org/abs/2210.01979)
+- **gravitational microlensing by dressed primordial black holes**
+  - [[Paper]](https://arxiv.org/abs/2210.02078)
+- **data drift correction via time-varying importance weight estimator**
+  - [[Paper]](https://arxiv.org/abs/2210.01422)
+- **adawac: adaptively weighted augmentation consistency regularization for volumetric medical image segmentation**
+  - [[Paper]](https://arxiv.org/abs/2210.01891)
+- **on the (un)importance of the transition-dipole phase in the high-harmonic generation from solid state media**
+  - [[Paper]](https://arxiv.org/abs/2210.02500)
+- **satellite-based continuous-variable quantum key distribution under the earth's gravitational field**
+  - [[Paper]](https://arxiv.org/abs/2210.02776)
+- **env-aware anomaly detection: ignore style changes, stay true to content!**
+  - [[Paper]](https://arxiv.org/abs/2210.03103)
+- **spectroscopic localization of atomic sample plane for precise digital holography**
+  - [[Paper]](https://arxiv.org/abs/2210.02721)
+- **benchmarking learnt radio localisation under distribution shift**
+  - [[Paper]](https://arxiv.org/abs/2210.01930)
+- **generalized solution of the paraxial equation**
+  - [[Paper]](https://arxiv.org/abs/2210.01088)
+- **on the effects of data normalisation for domain adaptation on eeg data**
+  - [[Paper]](https://arxiv.org/abs/2210.01081)
+- **spectral-domain method of moments analysis of spatially dispersive graphene patch embedded in planarly layered media**
+  - [[Paper]](https://arxiv.org/abs/2210.00877)
+- **towards performance portable programming for distributed heterogeneous systems**
+  - [[Paper]](https://arxiv.org/abs/2210.01238)
+- **simper: simple self-supervised learning of periodic targets**
+  - [[Paper]](https://arxiv.org/abs/2210.03115)
+- **class-specific channel attention for few-shot learning**
+  - [[Paper]](https://arxiv.org/abs/2209.01332)
+- **deep stable representation learning on electronic health records**
+  - [[Paper]](https://arxiv.org/abs/2209.01321)
+- **a demonstration of over-the-air computation for federated edge learning**
+  - [[Paper]](https://arxiv.org/abs/2209.09954)
+- **s2p: state-conditioned image synthesis for data augmentation in offline reinforcement learning**
+  - [[Paper]](https://arxiv.org/abs/2209.15256)
+- **domain generalization -- a causal perspective**
+  - [[Paper]](https://arxiv.org/abs/2209.15177)
+- **a domain adaptive deep learning solution for scanpath prediction of paintings**
+  - [[Paper]](https://arxiv.org/abs/2209.11338)
+- **robust bayesian non-segmental detection of multiple change-points**
+  - [[Paper]](https://arxiv.org/abs/2209.14995)
+- **modelling the energy distribution in chime/frb catalog-1**
+  - [[Paper]](https://arxiv.org/abs/2209.12961)
+- **exact and efficient multivariate two-sample tests through generalized linear rank statistics**
+  - [[Paper]](https://arxiv.org/abs/2209.14235)
+- **black-box audits for group distribution shifts**
+  - [[Paper]](https://arxiv.org/abs/2209.03620)
+- **semi-supervised triply robust inductive transfer learning**
+  - [[Paper]](https://arxiv.org/abs/2209.04977)
+- **polito-iit-cini submission to the epic-kitchens-100 unsupervised domain adaptation challenge for action recognition**
+  - [[Paper]](https://arxiv.org/abs/2209.04525)
+- **non-parametric temporal adaptation for social media topic classification**
+  - [[Paper]](https://arxiv.org/abs/2209.05706)
+- **test-time adaptation with principal component analysis**
+  - [[Paper]](https://arxiv.org/abs/2209.05779)
+- **giant overreflection of magnetohydrodynamic waves from inhomogeneous plasmas with nonuniform shear flows**
+  - [[Paper]](https://arxiv.org/abs/2209.08061)
+- **mitigating both covariate and conditional shift for domain generalization**
+  - [[Paper]](https://arxiv.org/abs/2209.08253)
+- **visible-infrared person re-identification using privileged intermediate information**
+  - [[Paper]](https://arxiv.org/abs/2209.09348)
+- **improving replay-based continual semantic segmentation with smart data selection**
+  - [[Paper]](https://arxiv.org/abs/2209.09839)
+- **towards optimization and model selection for domain generalization: a mixup-guided solution**
+  - [[Paper]](https://arxiv.org/abs/2209.00652)
+- **future gradient descent for adapting the temporal shifting data distribution in online recommendation systems**
+  - [[Paper]](https://arxiv.org/abs/2209.01143)
+- **meta-learning with less forgetting on large-scale non-stationary task distributions**
+  - [[Paper]](https://arxiv.org/abs/2209.01501)
+- **robustness and invariance properties of image classifiers**
+  - [[Paper]](https://arxiv.org/abs/2209.02408)
+- **importance tempering: group robustness for overparameterized models**
+  - [[Paper]](https://arxiv.org/abs/2209.08745)
+- **exploiting instance-based mixed sampling via auxiliary source domain supervision for domain-adaptive action detection**
+  - [[Paper]](https://arxiv.org/abs/2209.15439)
+- **too fine or too coarse? the goldilocks composition of data complexity for robust left-right eye-tracking classifiers**
+  - [[Paper]](https://arxiv.org/abs/2209.03761)
+- **record: resource constrained semi-supervised learning under distribution shift**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403214)
+- **towards reliable multimodal stress detection under distribution shift**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3461615.3486570)
+- **confidence may cheat: self-training on graph neural networks under distribution shift**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512172)
+- **active model adaptation under unknown shift**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539262)
+- **balance-subsampled stable prediction across unknown test data**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477052)
+- **focused context balancing for robust offline policy evaluation**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330852)
+- **an empirical study on data distribution-aware test selection for deep learning enhancement**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511598)
+- **a critical reassessment of the saerens-latinne-decaestecker algorithm for posterior probability adjustment**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3433164)
+- **understanding the effect of out-of-distribution examples and interactive explanations on human-ai decision making**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3479552)
+- **co-training disentangled domain adaptation network for leveraging popularity bias in recommenders**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531952)
+- **causpref: causal preference learning for out-of-distribution recommendation**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485447.3511969)
+- **off-policy actor-critic for recommender systems**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3523227.3546758)
+- **hybridrepair: towards annotation-efficient repair for deep learning models**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3533767.3534408)
+- **decoupled reinforcement learning to stabilise intrinsically-motivated exploration**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.5555/3535850.3535978)
+- **neural statistics for click-through rate prediction**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531762)
+- **influence function for unbiased recommendation**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401321)
+- **dcaf-bert: a distilled cachable adaptable factorized model for improved ads ctr prediction**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3487553.3524206)
+- **making adversarially-trained language models forget with model retraining: a case study on hate speech detection**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3487553.3524667)
+- **causal discovery from heterogeneous/nonstationary data**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.5555/3455716.3455805)
+- **svem: a signal variation elimination model for eeg emotion recognition**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3543081.3543085)
+- **adarnn: adaptive learning and forecasting of time series**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482315)
+- **transfer string kernel for cross-context dna-protein binding prediction**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1109/TCBB.2016.2609918)
+- **trustworthy graph learning: reliability, explainability, and privacy protection**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3542597)
+- **real negatives matter: continuous training with real negatives for delayed feedback modeling**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467086)
+- **a new generation of perspective api: efficient multilingual character-level transformers**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539147)
+- **robust self-supervised structural graph neural network for social network prediction**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512182)
+- **stable prediction across unknown environments**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3219819.3220082)
+- **learning security classifiers with verified global robustness properties**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3460120.3484776)
+- **fairness violations and mitigation under covariate shift**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442188.3445865)
+- **quantifying the performance of adversarial training on language models with distribution shifts**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3494108.3522764)
+- **fedrs: federated learning with restricted softmax for label distribution non-iid data**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467254)
+- **case study on distribution strategy through biclustering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3387263.3387271)
+- **semi-supervised flexible joint distribution adaptation**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3375998.3376022)
+- **analysis of the modified weibull distribution for estimation of wind speed distribution**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2832987.2833059)
+- **l-shift: encoding and shifting material properties and functionalities with phase-shifting liquid**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2677199.2688807)
+- **embedded out-of-distribution detection on an autonomous robot platform**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3445034.3460509)
+- **distribution-matching embedding for visual domain adaptation**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.5555/2946645.3007061)
+- **transfer learning with dynamic distribution adaptation**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3360309)
+- **probabilistic modeling for frequency vectors using a flexible shifted-scaled dirichlet distribution prior**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3406242)
+- **monitoring perception reliability in autonomous driving: distributional shift detection for estimating the impact of input data on prediction accuracy**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3488904.3493382)
+- **dynamical origins of distribution functions**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330842)
+- **ignis: scaling distribution-oblivious systems with light-touch distribution**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3314221.3314586)
+- **control of networked traffic flow distribution: a stochastic distribution system perspective**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3109761.3158411)
+- **modeling neurocognitive reaction time with gamma distribution**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3167918.3167941)
+- **a feedback shift correction in predicting conversion rates under delayed feedback**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380032)
+- **a crowdsourcing approach for the inference of distribution grids**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3208903.3208927)
+- **adapting covariate shift for legal ai**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3322640.3326720)
+- **semi-supervised drifted stream learning with short lookback**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539297)
+- **on the theory of policy gradient methods: optimality, approximation, and distribution shift**
+  - [[Paper]](http://jmlr.org/papers/v22/19-736.html)
+- **test-time adaptation to distribution shift by confidence maximization and input transformation**
+  - [[Paper]](https://arxiv.org/pdf/2106.14999.pdf)
+- **mandoline: model evaluation under distribution shift**
+  - [[Paper]](https://arxiv.org/pdf/2107.00643.pdf)
+- **examining and combating spurious features under distribution shift**
+  - [[Paper]](https://arxiv.org/pdf/2106.07171.pdf)
+- **stable prediction with model misspecification and agnostic distribution shift**
+  - [[Paper]](https://arxiv.org/pdf/2001.11713.pdf)
+- **rethinking importance weighting for deep learning under distribution shift**
+  - [[Paper]](https://arxiv.org/pdf/2006.04662.pdf)
+- **online adaptation to label distribution shift**
+  - [[Paper]](https://arxiv.org/pdf/2107.04520.pdf)
+- **near-optimal linear regression under distribution shift**
+  - [[Paper]](https://arxiv.org/pdf/2106.12108.pdf)
+- **closing the closed-loop distribution shift in safe imitation learning**
+  - [[Paper]](no_link_found)
+
+
+
+### Distribution shift in question answering
+
+
+- **the effect of natural distribution shift on question answering models ...**
+  - [[Paper]](https://dl.acm.org/doi/abs/10.5555/3524938.3525579)
+- **the effect of natural distribution shift on ... - researchgate**
+  - [[Paper]](https://www.researchgate.net/publication/341069459_The_Effect_of_Natural_Distribution_Shift_on_Question_Answering_Models)
+- **the effect of natural distribution shift on ... - karl krauth**
+  - [[Paper]](https://karlk.net/publication/dist_shift/)
+- **out-of-domain question answering - stanford university**
+  - [[Paper]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/reports/final_reports/report163.pdf)
+- **selective question answering under domain shift**
+  - [[Paper]](https://aclanthology.org/2020.acl-main.503.pdf)
+- **topic transferable table question answering - acl anthology**
+  - [[Paper]](https://aclanthology.org/2021.emnlp-main.342.pdf)
+- **re-evaluating conversational question answering**
+  - [[Paper]](https://aclanthology.org/2022.acl-long.555.pdf)
+- **improving calibration in question answering - acl anthology**
+  - [[Paper]](https://aclanthology.org/2021.findings-acl.172.pdf)
+- **improving question answering model robustness with ...**
+  - [[Paper]](https://aclanthology.org/2021.emnlp-main.696.pdf)
+- **contrastive domain adaptation for question answering using ...**
+  - [[Paper]](https://aclanthology.org/2021.emnlp-main.754.pdf)
+- **on the efficacy of adversarial data collection for question ...**
+  - [[Paper]](https://aclanthology.org/2021.acl-long.517.pdf)
+- **entity-based knowledge conflicts in question answering**
+  - [[Paper]](https://aclanthology.org/2021.emnlp-main.565.pdf)
+- **improving unsupervised question answering via ...**
+  - [[Paper]](https://aclanthology.org/2021.emnlp-main.340.pdf)
+- **challenges in generalization in open domain question ...**
+  - [[Paper]](https://aclanthology.org/2022.findings-naacl.155.pdf)
+- **accuracy on the line: on the strong correlation between out ...**
+  - [[Paper]](https://proceedings.mlr.press/v139/miller21b/miller21b.pdf)
+- **wilds: a benchmark of in-the-wild distribution shifts**
+  - [[Paper]](http://proceedings.mlr.press/v139/koh21a/koh21a.pdf)
+- **instabilities of offline rl with pre-trained neural ...**
+  - [[Paper]](http://proceedings.mlr.press/v139/wang21z/wang21z.pdf)
+- **data determines distributional robustness in contrastive ...**
+  - [[Paper]](https://proceedings.mlr.press/v162/fang22a/fang22a.pdf)
+- **lyapunov density models: constraining distribution shift in ...**
+  - [[Paper]](https://proceedings.mlr.press/v162/kang22a/kang22a.pdf)
+- **active learning under label shift**
+  - [[Paper]](http://proceedings.mlr.press/v130/zhao21b/zhao21b.pdf)
+- **predicting out-of-distribution error with the projection norm**
+  - [[Paper]](https://proceedings.mlr.press/v162/yu22i/yu22i.pdf)
+- **can autonomous vehicles identify, recover from,and adapt ...**
+  - [[Paper]](http://proceedings.mlr.press/v119/filos20a/filos20a.pdf)
+- **measuring robustness to natural distribution shifts in image ...**
+  - [[Paper]](https://papers.nips.cc/paper/2020/file/d8330f857a17c53d217014ee776bfd50-Paper.pdf)
+- **adaptive conformal inference under distribution shift**
+  - [[Paper]](https://papers.nips.cc/paper/2021/file/0d441de75945e5acbc865406fc9a2559-Paper.pdf)
+- **overparameterization improves robustness to covariate shift ...**
+  - [[Paper]](https://papers.nips.cc/paper/2021/file/73fed7fd472e502d8908794430511f4d-Paper.pdf)
+- **revisiting the calibration of modern neural networks**
+  - [[Paper]](https://papers.nips.cc/paper/2021/file/8420d359404024567b5aefda1231af24-Paper.pdf)
+- **reducing unimodal biases for visual question answering**
+  - [[Paper]](https://papers.nips.cc/paper/8371-rubi-reducing-unimodal-biases-for-visual-question-answering.pdf)
+- **debiased visual question answering from feature and ...**
+  - [[Paper]](https://papers.nips.cc/paper/2021/file/1f4477bad7af3616c1f933a02bfabe4e-Paper.pdf)
+- **on the value of out-of-distribution testing: an example of ...**
+  - [[Paper]](https://papers.nips.cc/paper/2020/file/045117b0e0a11a242b9765e79cbf113f-Paper.pdf)
+- **mitigating covariate shift in imitation learning via offline data ...**
+  - [[Paper]](https://papers.nips.cc/paper/2021/file/07d5938693cc3903b261e1a3844590ed-Paper.pdf)
+- **react: out-of-distribution detection with rectified activations**
+  - [[Paper]](https://papers.nips.cc/paper/2021/file/01894d6f048493d2cacde3c579c315a3-Paper.pdf)
+- **learning imbalanced datasets with label-distribution-aware ...**
+  - [[Paper]](https://papers.nips.cc/paper/8435-learning-imbalanced-datasets-with-label-distribution-aware-margin-loss.pdf)
+- **ai foundations for human visual perception driven cognitive ...**
+  - [[Paper]](http://www.ijcai.org/Proceedings/16/Papers/374.pdf)
+- **k-best: a new method for real-time decision making - ijcai**
+  - [[Paper]](https://www.ijcai.org/Proceedings/95-1/Papers/030.pdf)
+- **provable guarantees on the robustness of decision rules to ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2021/0585.pdf)
+- **robustifying vision transformer without retraining from ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0141.pdf)
+- **exploiting the sign of the advantage function to learn ... - ijcai**
+  - [[Paper]](https://www.ijcai.org/proceedings/2019/0625.pdf)
+- **bridging causality and learning: how do they benefit from ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2020/0725.pdf)
+- **towards robust dense retrieval via local ranking alignment**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0275.pdf)
+- **robustness guarantees for credal bayesian networks ... - ijcai**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0677.pdf)
+- **multi-agent concentrative coordination with decentralized ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0085.pdf)
+- **session no. 13 computer understanding ii (representation)**
+  - [[Paper]](http://www.ijcai.org/Proceedings/71/Papers/048.pdf)
+- **an information-theoretic approach to distribution shifts**
+  - [[Paper]](https://openreview.net/forum?id=GrZmKDYCp6H)
+- **a closer look at distribution shifts and out-of ... - openreview**
+  - [[Paper]](https://openreview.net/forum?id=2JFVnWuvrvV)
+- **a fine-grained analysis on distribution shift**
+  - [[Paper]](https://openreview.net/pdf?id=Dl4LetuLdyK)
+- **a dataset of real distributional shift across multiple large ...**
+  - [[Paper]](https://openreview.net/forum?id=qM45LHaWM6E)
+- **addressing distribution shift in offline-to ...**
+  - [[Paper]](https://openreview.net/pdf?id=9hgEG-k57Zj)
+- **anoshift: a distribution shift benchmark for unsupervised ...**
+  - [[Paper]](https://openreview.net/forum?id=rbrouCKPiej)
+- **addressing distribution shift in online reinforcement ...**
+  - [[Paper]](https://openreview.net/forum?id=9hgEG-k57Zj)
+- **detecting and adapting to irregular distribution shifts in ...**
+  - [[Paper]](https://openreview.net/forum?id=-440wKL2oJV)
+- **generative question answering: learning to ...**
+  - [[Paper]](https://openreview.net/pdf?id=Bkx0RjA9tX)
+- **if your data distribution shifts, use self-learning**
+  - [[Paper]](https://openreview.net/pdf?id=1oEvY1a67c1)
+- **the effect of natural distribution shift on question answering ...**
+  - [[Paper]](https://arxiv.org/abs/2004.14444)
+- **improving out-of-distribution robustness via selective ... - arxiv**
+  - [[Paper]](https://arxiv.org/pdf/2201.00299)
+- **toward a fine-grained analysis of distribution shifts in ... - arxiv**
+  - [[Paper]](https://arxiv.org/pdf/2205.02870)
+- **arxiv:2006.05121v3 [cs.cv] 7 apr 2021**
+  - [[Paper]](https://arxiv.org/pdf/2006.05121)
+- **afine-grained analysis on distribution shift - arxiv**
+  - [[Paper]](https://arxiv.org/pdf/2110.11328)
+- **arxiv:2207.08739v1 [cs.cv] 18 jul 2022**
+  - [[Paper]](https://arxiv.org/pdf/2207.08739)
+- **x-ggm: graph generative modeling for out-of-distribution ...**
+  - [[Paper]](https://arxiv.org/pdf/2107.11576)
+- **arxiv:2207.01168v1 [cs.lg] 4 jul 2022**
+  - [[Paper]](https://arxiv.org/pdf/2207.01168)
+- **how good are deep models in understanding\\ the generated ...**
+  - [[Paper]](https://arxiv.org/abs/2208.10760)
+- **task formulation matters when learning continually: a case study in visual question answering**
+  - [[Paper]](https://arxiv.org/abs/2210.00044)
+- **complexity-based prompting for multi-step reasoning**
+  - [[Paper]](https://arxiv.org/abs/2210.00720)
+- **test-time adaptation for visual document understanding**
+  - [[Paper]](https://arxiv.org/abs/2206.07240)
+- **data determines distributional robustness in contrastive language image pre-training (clip)**
+  - [[Paper]](https://arxiv.org/abs/2205.01397)
+- **rethinking evaluation practices in visual question answering: a case study on out-of-distribution generalization**
+  - [[Paper]](https://arxiv.org/abs/2205.12191)
+- **teaching models to express their uncertainty in words**
+  - [[Paper]](https://arxiv.org/abs/2205.14334)
+- **improving passage retrieval with zero-shot question generation**
+  - [[Paper]](https://arxiv.org/abs/2204.07496)
+- **data-suite: data-centric identification of in-distribution incongruous examples**
+  - [[Paper]](https://arxiv.org/abs/2202.08836)
+- **on a class of lacunary almost newman polynomials modulo p and density theorems**
+  - [[Paper]](https://arxiv.org/abs/2201.03233)
+- **question generation for evaluating cross-dataset shifts in multi-modal grounding**
+  - [[Paper]](https://arxiv.org/abs/2201.09639)
+- **local distributional chaos**
+  - [[Paper]](https://arxiv.org/abs/2112.01457)
+- **causal forecasting:generalization bounds for autoregressive models**
+  - [[Paper]](https://arxiv.org/abs/2111.09831)
+- **dair: data augmented invariant regularization**
+  - [[Paper]](https://arxiv.org/abs/2110.11205)
+- **topic transferable table question answering**
+  - [[Paper]](https://arxiv.org/abs/2109.07377)
+- **aggregate or not? exploring where to privatize in dnn based federated learning under different non-iid scenes**
+  - [[Paper]](https://arxiv.org/abs/2107.11954)
+- **pointer value retrieval: a new benchmark for understanding the limits of neural network generalization**
+  - [[Paper]](https://arxiv.org/abs/2107.12580)
+- **invariance principle meets information bottleneck for out-of-distribution generalization**
+  - [[Paper]](https://arxiv.org/abs/2106.06607)
+- **a winning hand: compressing deep networks can improve out-of-distribution robustness**
+  - [[Paper]](https://arxiv.org/abs/2106.09129)
+- **approximate bayesian computation for an explicit-duration hidden markov model of covid-19 hospital trajectories**
+  - [[Paper]](https://arxiv.org/abs/2105.00773)
+- **crossnorm and selfnorm for generalization under distribution shifts**
+  - [[Paper]](https://arxiv.org/abs/2102.02811)
+- **a new tool for precise mapping of local temperature fields in submicrometer aqueous volumes**
+  - [[Paper]](https://arxiv.org/abs/2102.07461)
+- **leveraging uncertainty from deep learning for trustworthy materials discovery workflows**
+  - [[Paper]](https://arxiv.org/abs/2012.01478)
+- **coping with label shift via distributionally robust optimisation**
+  - [[Paper]](https://arxiv.org/abs/2010.12230)
+- **some factors of nonsingular bernoulli shifts**
+  - [[Paper]](https://arxiv.org/abs/2010.04636)
+- **a tale of two cities: software developers working from home during the covid-19 pandemic**
+  - [[Paper]](https://arxiv.org/abs/2008.11147)
+- **roses are red, violets are blue... but should vqa expect them to?**
+  - [[Paper]](https://arxiv.org/abs/2006.05121)
+- **generalized mean shift with triangular kernel profile**
+  - [[Paper]](https://arxiv.org/abs/2001.02165)
+- **metaci: meta-learning for causal inference in a heterogeneous population**
+  - [[Paper]](https://arxiv.org/abs/1912.03960)
+- **stationary distributions for the voter model in $d\geq 3$ are factors of iid**
+  - [[Paper]](https://arxiv.org/abs/1908.09450)
+- **dark matter haloes and subhaloes**
+  - [[Paper]](https://arxiv.org/abs/1907.11775)
+- **information-theoretic considerations in batch reinforcement learning**
+  - [[Paper]](https://arxiv.org/abs/1905.00360)
+- **biobert: a pre-trained biomedical language representation model for biomedical text mining**
+  - [[Paper]](https://arxiv.org/abs/1901.08746)
+- **maximum of branching brownian motion in a periodic environment**
+  - [[Paper]](https://arxiv.org/abs/1812.04189)
+- **density estimation for shift-invariant multidimensional distributions**
+  - [[Paper]](https://arxiv.org/abs/1811.03744)
+- **thick points of random walk and the gaussian free field**
+  - [[Paper]](https://arxiv.org/abs/1809.04369)
+- **koala: a new paradigm for election coverage**
+  - [[Paper]](https://arxiv.org/abs/1807.09665)
+- **accounting for phenology in the analysis of animal movement**
+  - [[Paper]](https://arxiv.org/abs/1806.09473)
+- **when can multi-site datasets be pooled for regression? hypothesis tests, $\ell_2$-consistency and neuroscience applications**
+  - [[Paper]](https://arxiv.org/abs/1709.00640)
+- **distributed strong diameter network decomposition**
+  - [[Paper]](https://arxiv.org/abs/1602.05437)
+- **achieving delay rate-function optimality in ofdm downlink with time-correlated channels**
+  - [[Paper]](https://arxiv.org/abs/1601.06241)
+- **lyman alpha emitting galaxies in the nearby universe**
+  - [[Paper]](https://arxiv.org/abs/1505.07483)
+- **experimental round-robin differential phase-shift quantum key distribution**
+  - [[Paper]](https://arxiv.org/abs/1505.08142)
+- **constraints on planet occurrence around nearby mid-to-late m dwarfs from the mearth project**
+  - [[Paper]](https://arxiv.org/abs/1307.3178)
+- **x-ggm: graph generative modeling for out-of-distribution generalization in visual question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475350)
+- **question rewriting for conversational question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3437963.3441748)
+- **passage similarity and diversification in non-factoid question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3471158.3472249)
+- **conversational question answering over passages by leveraging word proximity networks**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401399)
+- **adapting visual question answering models for enhancing multimodal community q&a platforms**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3357384.3358000)
+- **select, substitute, search: a new benchmark for knowledge-augmented visual question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3463259)
+- **sanitizing synthetic training data generation for question answering over knowledge graphs**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3409256.3409836)
+- **naranjo question answering using end-to-end multi-task learning model**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330770)
+- **meaningful answer generation of e-commerce question-answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3432689)
+- **attentive history selection for conversational question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3357384.3357905)
+- **answer interaction in non-factoid question answering systems**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3295750.3298946)
+- **product-aware answer generation in e-commerce question-answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290992)
+- **a discourse-based approach for arabic question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2988238)
+- **verification of the expected answer type for biomedical question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3184558.3191542)
+- **spatiotemporal-textual co-attention network for video question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3320061)
+- **quantifying human-perceived answer utility in non-factoid question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3406522.3446028)
+- **answer ranking based on named entity types for question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3022227.3022297)
+- **adversarial learning of answer-related representation for visual question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3269206.3271765)
+- **video question answering via knowledge-based progressive spatial-temporal attention network**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3321505)
+- **opinion-aware answer generation for review-driven question answering in e-commerce**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3411904)
+- **xalgo: a design probe of explaining algorithms’ internal states via question-answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397481.3450676)
+- **scaling up online question answering via similar question retrieval**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2876034.2893428)
+- **cross-domain knowledge distillation for retrieval-based question answering systems**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449814)
+- **distributed deep learning for question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2983323.2983377)
+- **a non-factoid question-answering taxonomy**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531926)
+- **social question answering: textual, user, and network features for best answer prediction**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2948063)
+- **automatically extracting high-quality negative examples for answer selection in question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3077136.3080645)
+- **dynamic graph reasoning for conversational open-domain question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498557)
+- **conversational question answering on heterogeneous sources**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531815)
+- **open-retrieval conversational question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401110)
+- **fast parameter adaptation for few-shot image captioning and visual question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240527)
+- **a corpus for hybrid question answering systems**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3184558.3191540)
+- **explainable conversational question answering over heterogeneous sources**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531688)
+- **temporal question answering in news article collections**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3487553.3526023)
+- **asking for help in community question-answering: the goal-framing effect of question expression on response networks**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3529372.3533287)
+- **complex temporal question answering on knowledge graphs**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482416)
+- **qanswer: towards question answering search over websites**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3487553.3524250)
+- **semantic question answering on big data**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2928294.2928302)
+- **a chinese knowledge base question answering system**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3481970)
+- **knowledge graph embedding based question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290956)
+- **duplicate detection in programming question answering communities**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3169795)
+- **a factoid question answering system for vietnamese**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3184558.3191535)
+- **humor detection in product question answering systems**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401077)
+- **exploring diversification in non-factoid question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3234944.3234973)
+- **designing a question-answering system for comic contents**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3011549.3011554)
+- **performance prediction for non-factoid question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341981.3344249)
+- **non-factoid question answering in the legal domain**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3331184.3331431)
+- **natural language question answering in the financial domain**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.5555/3291291.3291311)
+- **more accurate question answering on freebase**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2806416.2806472)
+- **table cell search for question answering**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2872427.2883080)
+- **the effect of natural distribution shift on question answering models**
+  - [[Paper]](https://arxiv.org/pdf/2004.14444.pdf)
+- **a survey of causality in visual question answering**
+  - [[Paper]](https://gaoxiangluo.github.io/files/A_Survey_of_Causality_in_Visual_Question_Answering.pdf)
+- **learning neural models for natural language processing in the face of distributional shift**
+  - [[Paper]](https://arxiv.org/pdf/2109.01558.pdf)
+- **empirical or invariant risk minimization? a sample complexity perspective**
+  - [[Paper]](https://arxiv.org/pdf/2010.16412.pdf)
+- **l g ] 9 n ov 2 01 8 density estimation for shift-invariant multidimensional distributions**
+  - [[Paper]](http://export.arxiv.org/pdf/1811.03744)
+- **grit: general robust image task benchmark**
+  - [[Paper]](https://arxiv.org/pdf/2204.13653.pdf)
+- **qagan: adversarial approach to learning domain invariant language features**
+  - [[Paper]](https://arxiv.org/pdf/2206.12388.pdf)
+- **active learning over multiple domains in natural language tasks**
+  - [[Paper]](https://arxiv.org/pdf/2202.00254.pdf)
+- **a sample complexity perspective**
+  - [[Paper]](https://openreview.net/pdf?id=jrA5GAccy_)
+- **how good are deep models in understanding the generated images?**
+  - [[Paper]](https://arxiv.org/pdf/2208.10760.pdf)
+
+
+
+### Clinical Distribution Shift
+
+
+
+- **data distribution shifts and monitoring - chip huyen**
+  - [[Paper]](https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html)
+- **shifting the distribution | evidence for population health**
+  - [[Paper]](https://academic.oup.com/book/9251/chapter/155945428)
+- **principles for tackling distribution shift - youtube**
+  - [[Paper]](https://www.youtube.com/watch?v=QKBh6TmvBaw)
+- **zachary c. lipton: deep learning under distribution shift**
+  - [[Paper]](https://www.youtube.com/watch?v=WhpZKIra-FQ)
+- **preventing dataset shift from breaking machine-learning ...**
+  - [[Paper]](https://hal.archives-ouvertes.fr/hal-03293375/file/main.pdf)
+- **adapting event extractors to medical data - acl anthology**
+  - [[Paper]](https://aclanthology.org/2021.eacl-main.258.pdf)
+- **distinguishing clinical sentiment: the importance of domain ...**
+  - [[Paper]](https://aclanthology.org/W19-1915.pdf)
+- **the performance differences of a medical code prediction ...**
+  - [[Paper]](https://aclanthology.org/2022.clinicalnlp-1.10.pdf)
+- **investigating the challenges of temporal relation extraction ...**
+  - [[Paper]](https://aclanthology.org/W18-5607.pdf)
+- **rethinking group-robust algorithms in a label-wise setting**
+  - [[Paper]](https://aclanthology.org/2022.findings-acl.192.pdf)
+- **analyzing dynamic adversarial training data in the limit**
+  - [[Paper]](https://aclanthology.org/2022.findings-acl.18.pdf)
+- **how to leverage the multimodal ehr data for better medical ...**
+  - [[Paper]](https://aclanthology.org/2021.emnlp-main.329.pdf)
+- **gcn with external knowledge for clinical event detection**
+  - [[Paper]](https://aclanthology.org/2021.ccl-1.106.pdf)
+- **examining dataset shift during prospective validation**
+  - [[Paper]](https://proceedings.mlr.press/v149/otles21a/otles21a.pdf)
+- **evaluating domain generalization for survival analysis in ...**
+  - [[Paper]](https://proceedings.mlr.press/v174/pfisterer22a/pfisterer22a.pdf)
+- **understanding clinical collaborations through federated ...**
+  - [[Paper]](https://proceedings.mlr.press/v149/caldas21a/caldas21a.pdf)
+- **domain adaptation under target and conditional shift**
+  - [[Paper]](http://proceedings.mlr.press/v28/zhang13d.pdf)
+- **robust causal inference under covariate shift via worst-case ...**
+  - [[Paper]](http://proceedings.mlr.press/v125/jeong20a/jeong20a.pdf)
+- **what went wrong and when ... - review for neurips paper**
+  - [[Paper]](https://papers.nips.cc/paper/2020/file/08fa43588c2571ade19bc0fa5936e028-Review.html)
+- **what went wrong and when? instance-wise feature ...**
+  - [[Paper]](https://papers.nips.cc/paper/2020/hash/08fa43588c2571ade19bc0fa5936e028-Abstract.html)
+- **evaluating model performance under worst-case ...**
+  - [[Paper]](https://papers.nips.cc/paper/2021/file/908075ea2c025c335f4865f7db427062-Paper.pdf)
+- **from predictions to decisions: using l kahead regularization**
+  - [[Paper]](https://papers.nips.cc/paper/2020/file/2adcfc3929e7c03fac3100d3ad51da26-Paper.pdf)
+- **domain generalization via model-agnostic learning of ...**
+  - [[Paper]](https://papers.nips.cc/paper/8873-domain-generalization-via-model-agnostic-learning-of-semantic-features.pdf)
+- **improving robustness against common corruptions by ...**
+  - [[Paper]](https://papers.nips.cc/paper/2020/file/85690f81aadc1749175c187784afc9ee-Paper.pdf)
+- **likelihood ratios for out-of-distribution detection - openreview**
+  - [[Paper]](https://papers.nips.cc/paper/9611-likelihood-ratios-for-out-of-distribution-detection.pdf)
+- **the "moving targets" training algorithm**
+  - [[Paper]](http://papers.nips.cc/paper/233-the-moving-targets-training-algorithm.pdf)
+- **self-supervised adversarial distribution regularization for ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2021/0431.pdf)
+- **modeling physicians' utterances to explore diagnostic ... - ijcai**
+  - [[Paper]](https://www.ijcai.org/proceedings/2017/0517.pdf)
+- **unsupervised domain adaptation with dual-scheme fusion ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2020/0455.pdf)
+- **unsupervised cross-modality domain adaptation of ... - ijcai**
+  - [[Paper]](https://www.ijcai.org/proceedings/2018/0096.pdf)
+- **metric learning in optimal transport for domain adaptation**
+  - [[Paper]](https://www.ijcai.org/proceedings/2020/0299.pdf)
+- **truly batch apprenticeship learning with deep successor ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2019/0819.pdf)
+- **collaborative filtering on ordinal user feedback - ijcai**
+  - [[Paper]](https://www.ijcai.org/Proceedings/13/Papers/449.pdf)
+- **prototypes and production rulest an approach ...**
+  - [[Paper]](https://www.ijcai.org/Proceedings/79-1/Papers/004.pdf)
+- **learning sparse interpretable features for nas scoring ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0220.pdf)
+- **building text classifiers with minimal supervision - ijcai**
+  - [[Paper]](http://www.ijcai.org/Proceedings/11/Papers/208.pdf)
+- **reliable and trustworthy machine learning for health using ...**
+  - [[Paper]](https://openreview.net/forum?id=hNMOSUxE8o6)
+- **a benchmark of in-the-wild distribution shift over time - openreview**
+  - [[Paper]](https://openreview.net/pdf?id=F9ENmZABB0)
+- **hidden in plain sight: subgroup shifts escape ood detection**
+  - [[Paper]](https://openreview.net/forum?id=aZgiUNye2Cz)
+- **neurips 2021 workshop distshift - openreview**
+  - [[Paper]](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DistShift)
+- **beds-bench: behavior of ehr-models under distributional ...**
+  - [[Paper]](https://openreview.net/pdf?id=IKWYt4w1uDp)
+- **continual domain incremental learning for chest x-ray ...**
+  - [[Paper]](https://openreview.net/forum?id=tjUEd5OsxuA)
+- **a benchmark for text quantification learning under ... - openreview**
+  - [[Paper]](https://openreview.net/pdf?id=MndqjaCwQX)
+- **metashift:adataset of datasets for evaluat**
+  - [[Paper]](https://openreview.net/pdf?id=MTex8qKavoS)
+- **medshift: identifying shift data for medical dataset curation**
+  - [[Paper]](https://arxiv.org/pdf/2112.13885)
+- **test-time adaptation with calibration of medical image ... - arxiv**
+  - [[Paper]](http://arxiv.org/abs/2207.00769)
+- **arxiv:2207.05796v1 [cs.lg] 12 jul 2022**
+  - [[Paper]](https://arxiv.org/pdf/2207.05796)
+- **distribution shift in airline customer behavior during covid-19**
+  - [[Paper]](https://arxiv.org/abs/2111.14938)
+- **understanding behavior of clinical models under domain shifts**
+  - [[Paper]](https://arxiv.org/pdf/1809.07806)
+- **arxiv:2206.15274v1 [eess.iv] 30 jun 2022**
+  - [[Paper]](https://arxiv.org/pdf/2206.15274)
+- **arxiv:2207.00769v2 [eess.iv] 9 jul 2022**
+  - [[Paper]](https://arxiv.org/pdf/2207.00769)
+- **robust and efficient medical imaging with self-supervision**
+  - [[Paper]](https://arxiv.org/pdf/2205.09723)
+- **feather-light fourier domain adaptation in magnetic resonance imaging**
+  - [[Paper]](https://arxiv.org/abs/2208.00474)
+- **optimal transport features for morphometric population analysis**
+  - [[Paper]](https://arxiv.org/abs/2208.05891)
+- **distance-based detection of out-of-distribution silent failures for covid-19 lung lesion segmentation**
+  - [[Paper]](https://arxiv.org/abs/2208.03217)
+- **task-agnostic continual hippocampus segmentation for smooth population shifts**
+  - [[Paper]](https://arxiv.org/abs/2208.03206)
+- **continual learning for tumor classification in histopathology images**
+  - [[Paper]](https://arxiv.org/abs/2208.03609)
+- **generalizable and robust deep learning algorithm for atrial fibrillation diagnosis across ethnicities, ages and sexes**
+  - [[Paper]](https://arxiv.org/abs/2207.09667)
+- **domain-adaptive 3d medical image synthesis: an efficient unsupervised approach**
+  - [[Paper]](https://arxiv.org/abs/2207.00844)
+- **risk-sensitive reinforcement learning: iterated cvar and the worst path**
+  - [[Paper]](https://arxiv.org/abs/2206.02678)
+- **three applications of conformal prediction for rating breast density in mammography**
+  - [[Paper]](https://arxiv.org/abs/2206.12008)
+- **exposing and addressing the fragility of neural networks in digital pathology**
+  - [[Paper]](https://arxiv.org/abs/2206.15274)
+- **maxstyle: adversarial style composition for robust medical image segmentation**
+  - [[Paper]](https://arxiv.org/abs/2206.01737)
+- **test-time adaptation with shape moments for image segmentation**
+  - [[Paper]](https://arxiv.org/abs/2205.07983)
+- **uncertainty-informed deep learning models enable high-confidence predictions for digital histopathology**
+  - [[Paper]](https://arxiv.org/abs/2204.04516)
+- **on-the-fly test-time adaptation for medical image segmentation**
+  - [[Paper]](https://arxiv.org/abs/2203.05574)
+- **chexstray: real-time multi-modal data concordance for drift detection in medical imaging ai**
+  - [[Paper]](https://arxiv.org/abs/2202.02833)
+- **a field of experts prior for adapting neural networks at test time**
+  - [[Paper]](https://arxiv.org/abs/2202.05271)
+- **a privacy-preserving unsupervised domain adaptation framework for clinical text analysis**
+  - [[Paper]](https://arxiv.org/abs/2201.07317)
+- **robust scatterer number density segmentation of ultrasound images**
+  - [[Paper]](https://arxiv.org/abs/2201.06143)
+- **bayesian logistic regression for online recalibration and revision of risk prediction models with performance guarantees**
+  - [[Paper]](https://arxiv.org/abs/2110.06866)
+- **quantifying the reproducibility of graph neural networks using multigraph brain data**
+  - [[Paper]](https://arxiv.org/abs/2109.02248)
+- **memory-aware curriculum federated learning for breast cancer classification**
+  - [[Paper]](https://arxiv.org/abs/2107.02504)
+- **anatomy of domain shift impact on u-net layers in mri segmentation**
+  - [[Paper]](https://arxiv.org/abs/2107.04914)
+- **temporal dependencies in feature importance for time series predictions**
+  - [[Paper]](https://arxiv.org/abs/2107.14317)
+- **intra- and inter-fraction relative range verification in heavy-ion therapy using filtered interaction vertex imaging**
+  - [[Paper]](https://arxiv.org/abs/2106.09090)
+- **cross-modality brain tumor segmentation via bidirectional global-to-local unsupervised domain adaptation**
+  - [[Paper]](https://arxiv.org/abs/2105.07715)
+- **more generalizable models for sepsis detection under covariate shift**
+  - [[Paper]](https://arxiv.org/abs/2105.09385)
+- **out-of-distribution detection in dermatology using input perturbation and subset scanning**
+  - [[Paper]](https://arxiv.org/abs/2105.11160)
+- **feddg: federated domain generalization on medical image segmentation via episodic learning in continuous frequency space**
+  - [[Paper]](https://arxiv.org/abs/2103.06030)
+- **multi-institutional collaborations for improving deep learning-based magnetic resonance image reconstruction using federated learning**
+  - [[Paper]](https://arxiv.org/abs/2103.02148)
+- **spectral decoupling allows training transferable neural networks in medical imaging**
+  - [[Paper]](https://arxiv.org/abs/2103.17171)
+- **therapeutics data commons: machine learning datasets and tasks for drug discovery and development**
+  - [[Paper]](https://arxiv.org/abs/2102.09548)
+- **chexternal: generalization of deep learning models for chest x-ray interpretation to photos of chest x-rays and external clinical settings**
+  - [[Paper]](https://arxiv.org/abs/2102.08660)
+- **computer-aided abnormality detection in chest radiographs in a clinical setting via domain-adaptation**
+  - [[Paper]](https://arxiv.org/abs/2012.10564)
+- **deeplesionbrain: towards a broader deep-learning generalization for multiple sclerosis lesion segmentation**
+  - [[Paper]](https://arxiv.org/abs/2012.07950)
+- **federated semi-supervised learning for covid region segmentation in chest ct using multi-national data from china, italy, japan**
+  - [[Paper]](https://arxiv.org/abs/2011.11750)
+- **transducer adaptive ultrasound volume reconstruction**
+  - [[Paper]](https://arxiv.org/abs/2011.08419)
+- **multi-coil mri reconstruction challenge -- assessing brain mri reconstruction models and their generalizability to varying coil configurations**
+  - [[Paper]](https://arxiv.org/abs/2011.07952)
+- **chasing your long tails: differentially private prediction in health care settings**
+  - [[Paper]](https://arxiv.org/abs/2010.06667)
+- **contrastive cross-site learning with redesigned net for covid-19 ct classification**
+  - [[Paper]](https://arxiv.org/abs/2009.07652)
+- **"name that manufacturer". relating image acquisition bias with task complexity when training deep learning models: experiments on head ct**
+  - [[Paper]](https://arxiv.org/abs/2008.08525)
+- **adapting event extractors to medical data: bridging the covariate shift**
+  - [[Paper]](https://arxiv.org/abs/2008.09266)
+- **speed-of-sound imaging by differential phase contrast with angular compounding**
+  - [[Paper]](https://arxiv.org/abs/2007.03156)
+- **domain adaptation for ultrasound beamforming**
+  - [[Paper]](https://arxiv.org/abs/2007.03096)
+- **shape-aware meta-learning for generalizing prostate mri segmentation to unseen domains**
+  - [[Paper]](https://arxiv.org/abs/2007.02035)
+- **probabilistic self-learning framework for low-dose ct denoising**
+  - [[Paper]](https://arxiv.org/abs/2006.00327)
+- **mask: a flexible framework to facilitate de-identification of clinical texts**
+  - [[Paper]](https://arxiv.org/abs/2005.11687)
+- **risk projection for time-to-event outcome leveraging summary statistics with source individual-level data**
+  - [[Paper]](https://arxiv.org/abs/2003.01850)
+- **balancing confidentiality and sharing of genomic and phenotypic data in a clinical research system**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3233547.3233641)
+- **clinical and non-clinical handovers: designing for critical moments**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2998181.2998333)
+- **scaling up hci research: from clinical trials to deployment in the wild.**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3411763.3443437)
+- **research on automatic proofreading method of clinical terminology of traditional chinese medicine**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3358695.3360943)
+- **huge cohorts, genomics, and clinical data to personalize medicine**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3233547.3233608)
+- **the objective structured clinical examination (osce) in high-fidelity simulations for assessing nursing students' clinical judgment**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3345120.3345127)
+- **the objective structured clinical examination for assessing nursing student clinical competency in a high-fidelity simulation**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3416797.3416826)
+- **cohort-based clinical trial retrieval**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503516.3503529)
+- **text mining in clinical domain: dealing with noise**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2939672.2939720)
+- **aggregating semantic information nuggets for answering clinical queries**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2851613.2851694)
+- **on multi-armed bandit designs for dose-finding clinical trials**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.5555/3546258.3546272)
+- **optimizing clinical spatial resources with iot**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373017.3373047)
+- **explaining machine learning models for clinical gait analysis**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474121)
+- **temporal relation extraction in clinical texts: a systematic review**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3462475)
+- **ontology-aware clinical abstractive summarization**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3331184.3331319)
+- **automatic extraction of nested entities in clinical referrals in spanish**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498324)
+- **learning to rate clinical concepts using simulated clinician feedback**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3025171.3025232)
+- **science2cure: a clinical trial search prototype**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462797)
+- **“brilliant ai doctor” in rural clinics: challenges in ai-powered clinical decision support system deployment**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3411764.3445432)
+- **leveraging the cloud for intelligent clinical data registries**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307339.3343464)
+- **attention-based clinical note summarization**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477314.3507256)
+- **conflict discovery and analysis for clinical trials**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3079452.3079494)
+- **modeling clinical data from publications**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.5555/2873003.2873011)
+- **robustness evaluation of computer-aided clinical trials for medical devices**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302509.3311058)
+- **the evolutionary development of a serious game for clinical laboratory students**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3306500.3306545)
+- **multi-disciplinary fairness considerations in machine learning for clinical trials**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3531146.3533154)
+- **protecting interoperable clinical environment with authentication**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3076125.3076129)
+- **analysis of differences in clinical index between lung cancer patients with or without metastasis**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3107514.3107529)
+- **methodology for learning and acquiring clinical skills through simulation with artificial human models**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3486011.3486461)
+- **exploiting social media to enhance clinical decision support**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3358695.3360899)
+- **fast learning-based registration of sparse 3d clinical images**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3368555.3384462)
+- **a frequency-filtering strategy of obtaining phi-free sentences from clinical data repository**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2808719.2808752)
+- **clinical and genomics data integration using meta-dimensional approach**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2996890.3007896)
+- **application analysis of artificial intelligence target controlled infusion in clinical anesthesia operation**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495018.3495389)
+- **clinical decision support system based on knn/ontology extraction method**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3432291.3432305)
+- **driving time-dependent paths in clinical bpmn processes**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3019612.3019620)
+- **medical question answering for clinical decision support**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2983323.2983819)
+- **network analysis and recommendation for infectious disease clinical trial research**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307339.3342156)
+- **a test collection for matching patients to clinical trials**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2911451.2914672)
+- **agile clinical decision support development and implementation**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3233547.3233663)
+- **sonic therapy for anxiety management in clinical settings**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3154862.3154892)
+- **a framework to design successful clinical decision support systems**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3056540.3064960)
+- **dependable integrated clinical system architecture with runtime verification**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.5555/3199700.3199831)
+- **automated encoding of clinical guidelines into computer-interpretable format**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3194480.3194495)
+- **leveraging word embeddings and semantic enrichment for automatic clinical evidence grading**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3194480.3194492)
+- **exploring the cultivation mode of critical thinking in clinical-thinking training of diagnostics**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3535756.3535776)
+- **more text please! understanding and supporting the use of visualization for clinical text overview**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3173574.3173996)
+- **estimating test performance for ai medical devices under distribution shift with conformal prediction**
+  - [[Paper]](https://arxiv.org/pdf/2207.05796.pdf)
+- **ehr foundation models improve robustness in the presence of temporal distribution shift**
+  - [[Paper]](https://doi.org/10.1101/2022.04.15.22273900)
+- **study of changing trend in the clinical distribution of candida species in various clinical samples at tertiary care hospital, ahmedabad, gujarat -**
+  - [[Paper]](http://www.njcmindia.org/home/download/993)
+- **sood: self-supervised out-of-distribution detection under domain shift for multi-class colorectal cancer tissue types**
+  - [[Paper]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9607789)
+- **shift in translations: data work with patient-generated health data in clinical practice**
+  - [[Paper]](https://doi.org/10.1177/1460458219833097)
+- **evaluating model robustness and stability to dataset shift**
+  - [[Paper]](http://proceedings.mlr.press/v130/subbaswamy21a.html)
+- **a new look into uveitis in colombia: changes in distribution patterns and clinical characteristics over the last 25 years**
+  - [[Paper]](https://doi.org/10.1007/s00417-022-05796-2)
+- **muscle pain induces a shift of the spatial distribution of upper trapezius muscle activity during a repetitive task: a mechanism for perpetuation of pain with repetitive activity?**
+  - [[Paper]](https://doi.org/10.1097/AJP.0000000000000513)
+- **robust multivariate nonparametric tests for detection of two-sample location shift in clinical trials**
+  - [[Paper]](https://pdfs.semanticscholar.org/b5f0/c684be516a4f5801270c0d185b0bef9a0785.pdf)
+- **an empirical framework for domain generalization in clinical settings**
+  - [[Paper]](http://dl.acm.org/citation.cfm?id=3451878)
+
+
+### Medical Distribution Shift
+
+
+- **shift distribution – shiftdistribution.com**
+  - [[Paper]](http://www.shiftdistribution.com/)
+- **why equity matters in physician shift distribution - petal blog**
+  - [[Paper]](https://blog.petal-health.com/why-equity-matters-physician-shift-distribution)
+- **ehr foundation models improve robustness in the presence ...**
+  - [[Paper]](https://www.medrxiv.org/content/10.1101/2022.04.15.22273900v1.full)
+- **maintaining fairness across distribution shift: do we have ...**
+  - [[Paper]](https://montrealethics.ai/maintaining-fairness-across-distribution-shift-do-we-have-viable-solutions-for-real-world-applications/)
+- **characterizing the value of information in medical notes**
+  - [[Paper]](https://aclanthology.org/2020.findings-emnlp.187)
+- **assessing group-level gender bias in professional evaluations**
+  - [[Paper]](https://aclanthology.org/2022.gebnlp-1.11.pdf)
+- **ziad obermeyer - acl anthology**
+  - [[Paper]](https://aclanthology.org/people/z/ziad-obermeyer/)
+- **preventing failures due to dataset shift: learning predictive ...**
+  - [[Paper]](http://proceedings.mlr.press/v89/subbaswamy19a/subbaswamy19a.pdf)
+- **enhancing unsupervised domain adaptation via semantic ...**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0426.pdf)
+- **forecasting patient outcomes in kidney exchange - ijcai**
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0701.pdf)
+- **distributed patient scheduling in hospitals - ijcai**
+  - [[Paper]](https://www.ijcai.org/Proceedings/03/Papers/175.pdf)
+- **a fine-grained analysis of distribution shifts - openreview**
+  - [[Paper]](https://openreview.net/pdf?id=AVTfiZgV64X)
+- **[2110.14019] reliable and trustworthy machine learning for health ...**
+  - [[Paper]](https://ar5iv.labs.arxiv.org/html/2110.14019)
+- **arxiv:1910.00199v3 [cs.cv] 10 feb 2021**
+  - [[Paper]](https://arxiv.org/pdf/1910.00199)
+- **frequency dropout: feature-level regularization via randomized filtering**
+  - [[Paper]](https://arxiv.org/abs/2209.09844)
+- **q-net: query-informed few-shot medical image segmentation**
+  - [[Paper]](https://arxiv.org/abs/2208.11451)
+- **fusion: fully unsupervised test-time stain adaptation via fused normalization statistics**
+  - [[Paper]](https://arxiv.org/abs/2208.14206)
+- **domain adaptation under open set label shift**
+  - [[Paper]](https://arxiv.org/abs/2207.13048)
+- **revisiting inlier and outlier specification for improved out-of-distribution detection**
+  - [[Paper]](https://arxiv.org/abs/2207.05286)
+- **unsupervised domain adaptation using feature disentanglement and gcns for medical image classification**
+  - [[Paper]](https://arxiv.org/abs/2206.13123)
+- **single-domain generalization in medical image segmentation via test-time adaptation from shape dictionary**
+  - [[Paper]](https://arxiv.org/abs/2206.14467)
+- **distributional gaussian processes layers for out-of-distribution detection**
+  - [[Paper]](https://arxiv.org/abs/2206.13346)
+- **certifying some distributional fairness with subpopulation decomposition**
+  - [[Paper]](https://arxiv.org/abs/2205.15494)
+- **fedilc: weighted geometric mean and invariant gradient covariance for federated learning on non-iid data**
+  - [[Paper]](https://arxiv.org/abs/2205.09305)
+- **dltta: dynamic learning rate for test-time adaptation on cross-domain medical images**
+  - [[Paper]](https://arxiv.org/abs/2205.13723)
+- **fraug: tackling federated learning with non-iid features via representation augmentation**
+  - [[Paper]](https://arxiv.org/abs/2205.14900)
+- **cd$^2$-pfed: cyclic distillation-guided channel decoupling for model personalization in federated learning**
+  - [[Paper]](https://arxiv.org/abs/2204.03880)
+- **direct mapping from pet coincidence data to proton-dose and positron activity using a deep learning approach**
+  - [[Paper]](https://arxiv.org/abs/2204.13905)
+- **rood-mri: benchmarking the robustness of deep learning segmentation models to out-of-distribution and corrupted data in mri**
+  - [[Paper]](https://arxiv.org/abs/2203.06060)
+- **efficient fully distributed federated learning with adaptive local links**
+  - [[Paper]](https://arxiv.org/abs/2203.12281)
+- **larmor frequency shift from magnetized cylinders with arbitrary orientation distribution**
+  - [[Paper]](https://arxiv.org/abs/2203.01191)
+- **biomechanical lower limb model to predict patellar position alteration after medial open wedge high tibial osteotomy**
+  - [[Paper]](https://arxiv.org/abs/2203.16903)
+- **unsupervised domain adaptation for cross-modality retinal vessel segmentation via disentangling representation style transfer and collaborative consistency learning**
+  - [[Paper]](https://arxiv.org/abs/2201.04812)
+- **comparison of measurement systems for assessing number- and mass-based particle filtration efficiency**
+  - [[Paper]](https://arxiv.org/abs/2201.12446)
+- **multi-domain balanced sampling improves out-of-distribution generalization of chest x-ray pathology prediction models**
+  - [[Paper]](https://arxiv.org/abs/2112.13734)
+- **specificity-preserving federated learning for mr image reconstruction**
+  - [[Paper]](https://arxiv.org/abs/2112.05752)
+- **mitigating domain shift in ai-based tuberculosis screening with unsupervised domain adaptation**
+  - [[Paper]](https://arxiv.org/abs/2111.04893)
+- **reliable and trustworthy machine learning for health using dataset shift detection**
+  - [[Paper]](https://arxiv.org/abs/2110.14019)
+- **natural attribute-based shift detection**
+  - [[Paper]](https://arxiv.org/abs/2110.09276)
+- **dispensed transformer network for unsupervised domain adaptation**
+  - [[Paper]](https://arxiv.org/abs/2110.14944)
+- **adapt to adaptation: learning personalization for cross-silo federated learning**
+  - [[Paper]](https://arxiv.org/abs/2110.08394)
+- **distributionally robust multi-output regression ranking**
+  - [[Paper]](https://arxiv.org/abs/2109.12803)
+- **unsupervised domain adaptation in semantic segmentation based on pixel alignment and self-training**
+  - [[Paper]](https://arxiv.org/abs/2109.14219)
+- **the impact of domain shift on left and right ventricle segmentation in short axis cardiac mr images**
+  - [[Paper]](https://arxiv.org/abs/2109.13230)
+- **a study of the multi-agent benefit distribution model in the transformation of medical science and technology achievements**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340037.3340038)
+- **research of selection of distribution in the tasks of the regional system of medical prevention**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3388984.3390873)
+- **comparative study of mutualisation scenarios for distribution of non-medical products**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3286606.3286828)
+- **medical specialists retrieval system using unified medical language system**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3107514.3107521)
+- **distribution scheduling model of multiple temperature refrigerated container system**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3317614.3317628)
+- **phosphorylated physarum polycephalum 14-3-3 modulates the distribution of the p. polycephalum sr-like protein through the arginine/serine-rich domain: p14-3-3 modulates the distribution of psr**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3460238.3460261)
+- **energy exchange model in routed energy distribution network**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3360322.3361017)
+- **a study on the impact of shopping value on loyalty due to the activation of omni-channel based on mobile application by distribution companies**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3317614.3317636)
+- **a phase shifting multiple filter design methodology for lucy-richardson deconvolution of log-mixtures complex rtn tail distribution**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2800986.2800996)
+- **efficient signature scheme using extended chaotic maps for medical imaging records**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3418094.3418144)
+- **maximum domain of attraction of the conditional exponential-weibull distribution**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274250.3274256)
+- **medical nutrition therapy for adult patients receiving extracorporeal membrane oxygenation**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3472813.3472829)
+- **optimization of contract distribution based on multi-objective estimation of distribution algorithm**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3194452.3194455)
+- **open routed energy distribution network based on a concept of energy router in smart grid**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3366030.3366036)
+- **distribution big data technology of active distribution network based on edge computing**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3501409.3501637)
+- **kernel distribution embeddings: universal kernels, characteristic kernels and kernel metrics on distributions**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.5555/3291125.3309606)
+- **fisher consistency for prior probability shift**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.5555/3122009.3176839)
+- **distribution-level markets under high renewable energy penetration**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3538637.3538846)
+- **an estimation of distribution algorithm based on the natural gradient and the boltzmann distribution**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2739480.2754803)
+- **research on university takeaway o2o distribution mode based on centralized distribution of third-party sub-region**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404649.3404651)
+- **niching an estimation-of-distribution algorithm by hierarchical gaussian mixture learning**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3071178.3071283)
+- **the line loss calculation method of active distribution network based on equivalent capacity method**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3331453.3361314)
+- **simulation application for improving the efficiency of new distribution centers**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1109/DS-RT.2015.20)
+- **application and effect analysis of series reactive power compensation in low voltage distribution network**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3429536.3429537)
+- **supporting the self-care practices of shift workers**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3282894.3282914)
+- **towards flexible wireless charging for medical implants using distributed antenna system**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380899)
+- **multiobjective discrete differential evolution for service restoration in energy distribution systems**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2908961.2931642)
+- **medical modeling and numerical analysis of thoracoabdominal aortic aneurysm**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340037.3340048)
+- **tough shift: exploring the complexities of shifting residential electricity use through a casual mobile game**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2793107.2793108)
+- **accessibility analysis of hospitals medical services in urban modernization**
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3418094.3418101)
+- **test-time adaptation with calibration of medical image classification nets for label distribution shift**
+  - [[Paper]](https://arxiv.org/pdf/2207.00769.pdf)
+- **performance deterioration of deep neural networks for lesion classification in mammography due to distribution shift: an analysis based on artificially created distribution shift**
+  - [[Paper]](https://doi.org/10.1117/12.2551346)
+- **how reliable are out-of-distribution generalization methods for medical image segmentation?**
+  - [[Paper]](https://arxiv.org/pdf/2109.01668.pdf)
+- **the domain shift problem of medical image segmentation and vendor-adaptation by unet-gan**
+  - [[Paper]](https://arxiv.org/pdf/1910.13681.pdf)
+- **is the trend of increasing use of patient-reported outcome measures in medical device studies the sign of shift towards value-based purchasing in europe?**
+  - [[Paper]](https://doi.org/10.1007/s10198-019-01070-1)
+- **influence of response shift and disposition on patient-reported outcomes may lead to suboptimal medical decisions: a medical ethics perspective**
+  - [[Paper]](https://doi.org/10.1186/s12910-019-0397-3)
+- **impact of shift duration on alertness among air‐medical emergency care clinician shift workers**
+  - [[Paper]](https://doi.org/10.1002/ajim.22956)
+- **vaccine distribution-equity left behind?**
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/33512381)
+- **methods of generating submicrometer phase-shift perfluorocarbon droplets for applications in medical ultrasonography**
+  - [[Paper]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7604095)
