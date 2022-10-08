@@ -27,9 +27,7 @@ Robust machine learning typically refers to the robustness of machine learning a
 5. [Researchers](#Researchers)
 
 
-## Papers
-
-### Robust machine learning
+## Robust machine learning
 
 - **robust machine learning systems: reliability and security for ...**
   - [[Paper]](https://ieeexplore.ieee.org/document/8474192)
@@ -374,7 +372,7 @@ Robust machine learning typically refers to the robustness of machine learning a
 
 
 
-### Robust Machine Learning in Medical Domain
+## Robust Machine Learning in Medical Domain
 
 
 - **robust machine learning variable importance analyses of ...**
