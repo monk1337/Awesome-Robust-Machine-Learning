@@ -373,7 +373,7 @@ Robust machine learning typically refers to the robustness of machine learning a
 
 
 
-## Robust machine learning in medical domain
+## Robust Machine Learning in Medical Domain
 
 
 - **robust machine learning variable importance analyses of ...**
