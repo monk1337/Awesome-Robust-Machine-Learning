@@ -16,10 +16,10 @@ Robust machine learning typically refers to the robustness of machine learning a
 1. [Papers](#Robust-Machine-Learning)
    - [Robust machine learning](#robust-machine-learning)
    - [Robust Machine Learning in Medical Domain](#robust-machine-learning-in-medical-domain)
-   - [Distribution Shift]
-   - [Distribution shift in question answering]
-   - [Clinical Distribution Shift]
-   - [Medical Distribution Shift]
+   - [Distribution Shift](#distribution-shift)
+   - [Distribution shift in question answering](#distribution-shift-in-question-answering)
+   - [Clinical Distribution Shift](#clinical-distribution-shift)
+   - [Medical Distribution Shift](#medical-distribution-shift)
    
 2. [Code](#Code)
 3. [datasets](#Datasets)
