@@ -29,7 +29,7 @@ Robust machine learning typically refers to the robustness of machine learning a
 
 ## Code
 
-- **Estimating Generalization**
+- **Estimating Generalization** 
   - [[Code]](https://github.com/chingyaoc/estimating-generalization)
   
 - **Adversarial Robustness Toolbox (ART)**
@@ -38,7 +38,7 @@ Robust machine learning typically refers to the robustness of machine learning a
 - **Robustness Gym**
   - [[Code]](https://github.com/robustness-gym/robustness-gym)
   
- - **WILDS: A benchmark of in-the-wild distribution shifts**
+- **WILDS: A benchmark of in-the-wild distribution shifts**
   - [[Code]](https://github.com/p-lambda/wilds)
  
   
